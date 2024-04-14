@@ -11,7 +11,7 @@ Holds the raw and processed data used for annotation and analysis. This includes
 Contains files related to the LingoTurk platform, which was used for collecting annotations. This includes task configurations and instructions. <br>
 ## statistics: <br>
 Includes statistical reports and summaries derived from the data set. <br>
-## The analysis of annotations: <br>
+## the analysis of annotations: <br>
 Contains detailed analyses of annotation results, including comparisons between different annotation methods, inter-annotator agreements, error analysis, and insights into annotation discrepancies. <br>
 # Usage:<br>
 Researchers and developers interested in content moderation, natural language processing, and online discourse analysis can benefit from this data set and associated resources. <br>
