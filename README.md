@@ -1,4 +1,4 @@
-# InappropriateLanguageDetection
+# Task description:<br>
 This repository contains annotated data on inappropriate language in online discussions, generated through a combination of expert annotation, crowd-sourcing, and ChatGPT-based methods. <br>
 ## annotations: <br>
 ChatGPT_explicit: This subfolder contains annotations of explicit inappropriate language identified by ChatGPT.<br>
@@ -13,3 +13,5 @@ Contains files related to the LingoTurk platform, which was used for collecting 
 Includes statistical reports and summaries derived from the data set. <br>
 ## The analysis of annotations: <br>
 Contains detailed analyses of annotation results, including comparisons between different annotation methods, inter-annotator agreements, error analysis, and insights into annotation discrepancies. <br>
+# Usage:<br>
+Researchers and developers interested in content moderation, natural language processing, and online discourse analysis can benefit from this dataset and associated resources. <br>
