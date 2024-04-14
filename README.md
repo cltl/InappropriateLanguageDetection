@@ -1,6 +1,6 @@
 # InappropriateLanguageDetection
 This repository contains annotated data on inappropriate language in online discussions, generated through a combination of expert annotation, crowd-sourcing, and ChatGPT-based methods. <br>
-##Folders: <br>
+## Folders: <br>
   1- annotations: <br>
     Subfolders:<br>
       1) ChatGPT_explicit: This subfolder contains annotations of explicit inappropriate language identified by ChatGPT.<br>
