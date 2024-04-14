@@ -4,4 +4,4 @@ This repository contains annotated data on inappropriate language in online disc
 ChatGPT_explicit: This subfolder contains annotations of explicit inappropriate language identified by ChatGPT.<br>
 ExplicitlyInappropriateLanguageInContext:  Here, you will find both crowd and expert annotations that highlight instances of explicitly inappropriate language. <br>
 ## codes: <br>
-Includes scripts and code used for data processing, analysis,
+Includes scripts and code used for data processing, analysis, etc.
