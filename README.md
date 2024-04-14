@@ -14,4 +14,10 @@ Includes statistical reports and summaries derived from the data set. <br>
 ## The analysis of annotations: <br>
 Contains detailed analyses of annotation results, including comparisons between different annotation methods, inter-annotator agreements, error analysis, and insights into annotation discrepancies. <br>
 # Usage:<br>
-Researchers and developers interested in content moderation, natural language processing, and online discourse analysis can benefit from this dataset and associated resources. <br>
+Researchers and developers interested in content moderation, natural language processing, and online discourse analysis can benefit from this data set and associated resources. <br>
+# Citation: <br>
+If you use this data set or findings from this repository in your research or projects, please consider citing this repository and our paper. <br>
+Citing the paper: <br>
+Citing the repository: https://github.com/cltl/InappropriateLanguageDetection
+# Contact<br>
+Please feel free to ask any questions you may have by contacting me via b[dot]barbarestani[at]vu[dot]nl.
