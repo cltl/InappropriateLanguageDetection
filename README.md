@@ -17,7 +17,7 @@ Contains detailed analyses of annotation results, including comparisons between 
 Researchers and developers interested in content moderation, natural language processing, and online discourse analysis can benefit from this data set and associated resources. <br>
 # Citation: <br>
 If you use this data set or findings from this repository in your research or projects, please consider citing this repository and our paper. <br>
-Citing the paper:
+Citing the paper: https://aclanthology.org/2024.trac-1.11/
 
 @inproceedings{barbarestani-etal-2024-content,
     title = "Content Moderation in Online Platforms: A Study of Annotation Methods for Inappropriate Language",
