@@ -17,7 +17,29 @@ Contains detailed analyses of annotation results, including comparisons between 
 Researchers and developers interested in content moderation, natural language processing, and online discourse analysis can benefit from this data set and associated resources. <br>
 # Citation: <br>
 If you use this data set or findings from this repository in your research or projects, please consider citing this repository and our paper. <br>
-Citing the paper: <br>
+Citing the paper:
+
+@inproceedings{barbarestani-etal-2024-content,
+    title = "Content Moderation in Online Platforms: A Study of Annotation Methods for Inappropriate Language",
+    author = "Barbarestani, Baran  and
+      Maks, Isa  and
+      Vossen, Piek T.J.M.",
+    editor = "Kumar, Ritesh  and
+      Ojha, Atul Kr.  and
+      Malmasi, Shervin  and
+      Chakravarthi, Bharathi Raja  and
+      Lahiri, Bornini  and
+      Singh, Siddharth  and
+      Ratan, Shyam",
+    booktitle = "Proceedings of the Fourth Workshop on Threat, Aggression {\&} Cyberbullying @ LREC-COLING-2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.trac-1.11",
+    pages = "96--104"}
+    
+<br>
 Citing the repository: https://github.com/cltl/InappropriateLanguageDetection
 # Contact<br>
 Please feel free to ask any questions you may have by contacting me via b[dot]barbarestani[at]vu[dot]nl.
